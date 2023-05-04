@@ -1,0 +1,157 @@
+body {
+    background-size: repeat;
+    background-color: #ff006e;
+    font-family: 'Roboto', sans-serif;
+}
+
+#white {
+    color: white;
+}
+
+#white:hover {
+    color: yellow;
+    font-weight: 500;
+}
+
+.svg {
+    fill: #8ecae6;
+}
+
+#button-nav {
+    background-color: #ff006e;
+    border-color: #8ecae6;
+    color: yellow;
+}
+
+#button-nav:hover {
+    background-color: yellow;
+    border-color: #8ecae6;
+    color: black;
+    cursor: pointer;
+}
+
+#first-container {
+    background-color: #8ecae6;
+    background-image: url(406995.webp);
+    background-size: cover;
+    color: white;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+.paragraph-first-container {
+    font-size: 20px;
+}
+
+#first-container-image {
+    border-radius: 10%;
+}
+
+.btn-outline-danger {
+    background-color: yellow;
+}
+
+/* .half-first-section {
+    background-image: url(photo-1588421357937-c6dadca810cf.avif);
+    background-size: cover;
+    height: 600px; */
+}
+
+#background-partners {
+    background-image: url(desktop-wallpaper-minimalistic-candy-blurred-colors-smooth-smooth.jpg);
+    background-size: cover;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+.courseloverarch {
+    height: auto;
+    background-color: #8ecae6;
+    text-align: center;
+    color: white;
+}
+
+.carouselimage {
+    width: 13rem;
+    height: 13rem;
+    border-radius: 50%;
+    box-shadow: -1px 27px 21px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 27px 21px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 27px 21px 0px rgba(0, 0, 0, 0.75);
+}
+
+.material-symbols-outlined {
+    color: yellow;
+}
+
+.fa-brands {
+    color: #ff006e;
+    padding: 10px;
+    transition: 300ms;
+    padding-bottom: 20px;
+}
+
+.fa-brands:hover {
+    color: yellow;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 26px 4px 5px rgba(0, 0, 0, 0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 26px 4px 5px rgba(0, 0, 0, 0);
+}
+
+.contact-form-container {
+    background-color: #8ecae6;
+    color: white;
+    border-radius: 10px;
+    font-weight: bolder;
+    box-shadow: -5px 5px 37px -22px #ffffff;
+}
+
+#envelope {
+    width: 132.7%;
+    height: 46em;
+    border-radius: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+#textarea {
+    background-color: yellow;
+    border: 0px;
+    border-bottom: solid 2px black;
+}
+
+#sumbitbutton {
+    background-color: yellow;
+    color: black;
+    border-radius: 15px;
+    transition: 300ms;
+}
+
+#sumbitbutton:hover {
+    padding-left: 20px;
+    padding-right: 20px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 26px 4px 5px rgba(0, 0, 0, 0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 26px 4px 5px rgba(0, 0, 0, 0);
+}
+
+.footer-container {
+    background-color: #8ecae6;
+}
+
+.footer-links {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: 1000ms;
+}
+
+.footer-links:hover {
+    text-decoration: none;
+    color: yellow;
+    padding-left: 20px;
+}
